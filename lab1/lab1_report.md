@@ -19,6 +19,8 @@ Date of finished: 07.09.2026
 ### 1. Изучение основ Docker
 
 #### 1.1. Установка Docker
+<img width="1502" height="1312" alt="anesthesia" src="https://github.com/user-attachments/assets/0006fbae-8158-45bf-b61f-ef93dd6f5429" />
+
 
 Для Windows/macOS был установлен Docker Desktop, для Linux — Docker Engine (см. [официальную инструкцию](https://docs.docker.com/get-docker/)).
 
