@@ -1,10 +1,10 @@
-# Vvedenie v veb-tehnologii
+# Введение в веб-технологии
 
-Uchebnyi repozitorii po kursu "Vvedenie v veb-tehnologii", ITMO University, FICT.
+Учебный репозиторий по курсу «Введение в веб-технологии», ITMO University, FICT.
 
-Gruppa: U4225
-Avtor: Kaasamani Roni Bakhaaevich
+Группа: U4225
+Автор: Kaasamani Roni Bakhaaevich
 
-## Laboratornye raboty
+## Лабораторные работы
 
-- [Lab 1. Osnovy raboty s Docker](lab1/lab1_report.md)
+- [Lab 1. Основы работы с Docker](lab1/lab1_report.md)
