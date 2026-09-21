@@ -12,6 +12,7 @@
 
 **Лабораторные работы**
 
+<tr><td><b>Курсовая работа</b></td><td><a href="coursework/coursework_report.md">Отчёт по курсовой</a></td></tr>
 <table>
 <tr><td><b>Лабораторная работа №1</b></td><td><a href="lab1/lab1_report.md">Отчет лаб 1</a></td></tr>
 <tr><td><b>Лабораторная работа №2</b></td><td><a href="lab2/lab2_report.md">Отчет лаб 2</a></td></tr>
